@@ -87,7 +87,7 @@ Authenticated Users:
 
 
 ## Usage
-- Visit the Website (<a href="https://pricebetatesting.herokuapp.com/index">Visit the WIP</a>)
+- Visit the Website (<a href="https://pricebetatesting.herokuapp.com/index">WIP</a>)
 - Browse through
 - Sign Up
 - Verify your Email
